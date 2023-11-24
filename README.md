@@ -33,7 +33,7 @@ And you can cite as follows.
   title={并联混合动力传动系统结构创新设计研究}, 
   year={2018},
   doi={10.19562/j.chinasae.qcgc.2018.09.001}
-
+```
 #Design and control for Motor and electric drive assembly
 
 The correspoding research has been published in follow journal article.
@@ -41,7 +41,6 @@ The correspoding research has been published in follow journal article.
 2 [Load Emulation Compensation Control of a Test Bench Based on Rigid-Flexible Coupling Transmission for a Vehicle Electric Drive System](https://ieeexplore.ieee.org/document/9875333)
 And you can cite as follows.
 ```
-
 @ARTICLE{
   author={Tao Deng, Zhenhua Su, Junying Li, Peng Tang, Xing Chen, Ping Liu},
   journal={IEEE Transactions on Vehicular Technology}, 
@@ -54,3 +53,4 @@ And you can cite as follows.
   title={Load Emulation Compensation Control of a Test Bench Based on Rigid-Flexible Coupling Transmission for a Vehicle Electric Drive System}, 
   year={2022},
   doi={10.1109/TIM.2022.3204095}
+
