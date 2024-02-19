@@ -39,6 +39,10 @@ And you can cite as follows.
 The correspoding research has been published in follow journal article.
 1.[Advanced Angle Field Weakening Control Strategy of Permanent Magnet Synchronous Motor](https://ieeexplore.ieee.org/document/8651428) 
 2 [Load Emulation Compensation Control of a Test Bench Based on Rigid-Flexible Coupling Transmission for a Vehicle Electric Drive System](https://ieeexplore.ieee.org/document/9875333)
+3.[A Novel Real-Time Energy Management Strategy for Plug-in Hybrid Electric Vehicles Based on Equivalence Factor Dynamic Optimization Method](https://onlinelibrary.wiley.com/doi/10.1002/er.5794)
+4.[Multi-objective trade-off optimal control of energy management for hybrid system](https://link.springer.com/article/10.1007/s40430-018-1146-0)
+5.[基于负载补偿的功率分流混合动力系统模式切换性能测试方法](http://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2023.10.012)
+6.[多自由度球形感应电机创新设计及其参数化仿真分析](http://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2019.04.002)
 And you can cite as follows.
 ```
 @ARTICLE{
@@ -53,4 +57,28 @@ And you can cite as follows.
   title={Load Emulation Compensation Control of a Test Bench Based on Rigid-Flexible Coupling Transmission for a Vehicle Electric Drive System}, 
   year={2022},
   doi={10.1109/TIM.2022.3204095}
+@ARTICLE{
+  author={Tao Deng, Peng Tang,Lin Chunsong, Li Xin},
+  journal={Journal of the Brazilian Society of Mechanical Sciences and Engineering}, 
+  title={Multi-objective trade-off optimal control of energy management for hybrid system}, 
+  year={2018},
+  doi={10.1007/s40430-018-1146-0}
+@ARTICLE{
+  author={Tao Deng, Peng Tang,Luo Junlin},
+  journal={International Journal of Energy Research.}, 
+  title={A Novel Real-Time Energy Management Strategy for Plug-in Hybrid Electric Vehicles Based on Equivalence Factor Dynamic Optimization Method}, 
+  year={2020},
+  doi={10.1002/er.5794}
+@ARTICLE{
+  author={李豪迪，赵治国，唐鹏，侯永平},
+  journal={汽车工程}, 
+  title={基于负载补偿的功率分流混合动力系统模式切换性能测试方法}, 
+  year={2023},
+  doi={10.19562/j.chinasae.qcgc.2023.10.012}
+@ARTICLE{
+  author={邓涛, 苏振华, 唐鹏},
+  journal={汽车工程}, 
+  title={多自由度球形感应电机创新设计及其参数化仿真分析}, 
+  year={2019},
+  doi={10.19562/j.chinasae.qcgc.2019.04.002}
 
