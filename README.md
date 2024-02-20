@@ -130,6 +130,7 @@ The corresponding patents include:
 16.[基于多轴输入型双转子电机的多工况模拟试验台架](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 17.[液控可变多自由度驱动球形感应电机](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[一种能实现多种PX功能的单电机混合动力变速系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
+And you can cite as follows.
 ```
 @Patent{邓涛,唐鹏.旋转式运输装置.中国发明专利,申请号:201610416401.4.（已授权）}
 @Patent{邓涛,唐鹏,等.混合动力汽车发动机废热余热再利用系统.中国发明专利，申请号：201610828295.0.（已授权）}
