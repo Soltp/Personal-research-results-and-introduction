@@ -83,6 +83,7 @@ And you can cite as follows.
   year={2019},
   doi={10.19562/j.chinasae.qcgc.2019.04.002}
 ```
+
 # Transient temperature field prediction of electric drive assembly
 
 The correspoding research has been published in follow. [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/) and [Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque](https://saemobilus.sae.org/content/2024-01-2024/)
@@ -106,6 +107,7 @@ If you are using this code please cite as follows.
   title={Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque}, 
   year={2024},
   doi={xxx}
+```
 
 # Related patent
 
