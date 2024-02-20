@@ -83,6 +83,28 @@ And you can cite as follows.
   year={2019},
   doi={10.19562/j.chinasae.qcgc.2019.04.002}
 ```
+# Transient temperature field prediction of electric drive assembly
+
+The correspoding research has been published in follow.
+
+@ARTICLE{
+  author={Peng Tang, Zhiguo zhao, and Haodi Li},
+  journal={IEEE Transactions on Industrial Electronics}, 
+  title={Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network}, 
+  year={2023},
+  doi={10.1109/TIE.2023.3303650}
+@Conference{
+  author={Peng Tang, Zhiguo zhao, and Haodi Li},
+  Conference={SAE 2023 Vehicle Powertrain Diversification Technology Forum}, 
+  title={Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling}, 
+  year={2023},
+  doi={10.4271/2023-01-7031}
+@Conference{
+  author={Peng Tang, Zhiguo zhao, and Haodi Li},
+  Conference={WCX SAE World Congress Experience}, 
+  title={Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque}, 
+  year={2024},
+  doi={xxx}
 
 # Related patent
 
