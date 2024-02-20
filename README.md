@@ -81,14 +81,11 @@ And you can cite as follows.
   title={多自由度球形感应电机创新设计及其参数化仿真分析}, 
   year={2019},
   doi={10.19562/j.chinasae.qcgc.2019.04.002}
+```
 
 #Related patent
 
 The corresponding patents include.
-1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.](https://ieeexplore.ieee.org/document/9078871) 
-2 [Generation, Screening, and Optimization of Powertrain Configurations for Power-Split Hybrid Electric Vehicle: A Comprehensive Overview](https://ieeexplore.ieee.org/document/9514573)
-3 [A novel algorithm for the isomorphism detection of various kinematic chains using topological index](https://www.sciencedirect.com/science/article/pii/S0094114X19323468)
-4 [并联混合动力传动系统结构创新设计研究/A Research on the Structural Innovative Design of Parallel Hybrid Powertrain System](http://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2018.09.001)
 1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery)
 2.[邓涛,唐鹏,等.混合动力汽车发动机废热余热再利用系统.发明专利，申请号：201610828295.0.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 3.[邓涛,唐鹏,等.汽车远程控锁系统.发明专利,申请号:201710625816.7.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
@@ -108,9 +105,3 @@ The corresponding patents include.
 17.[邓涛，苏振华，姜路，唐鹏. 液控可变多自由度驱动球形感应电机, 中国发明专利, 实审,申请号：CN201810065885.1].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[邓涛，赵柯，唐鹏，等. 一种能实现多种PX功能的单电机混合动力变速系统. 中国发明专利, 实审,申请号：CN202010507515.6].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 ```
-@ARTICLE{
-  author={Tao Deng, Peng Tang, Zhenghua Su, Yuanping Luo},
-  journal={ IEEE Transactions on Power Electronics}, 
-  title={Systematic Design and Optimization Method of Multimode Hybrid Electric Vehicles Based on Equivalent Tree Graph}, 
-  year={2020},
-  doi={10.1109/TPEL.2020.2990209}
