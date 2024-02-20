@@ -82,7 +82,8 @@ And you can cite as follows.
   year={2019},
   doi={10.19562/j.chinasae.qcgc.2019.04.002}
 
-Related patent
+#Related patent
+
 The corresponding patents include.
 1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.](https://ieeexplore.ieee.org/document/9078871) 
 2 [Generation, Screening, and Optimization of Powertrain Configurations for Power-Split Hybrid Electric Vehicle: A Comprehensive Overview](https://ieeexplore.ieee.org/document/9514573)
