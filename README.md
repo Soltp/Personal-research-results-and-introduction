@@ -34,7 +34,8 @@ And you can cite as follows.
   year={2018},
   doi={10.19562/j.chinasae.qcgc.2018.09.001}
 ```
-#Design and control for Motor and electric drive assembly
+
+# Design and control for Motor and electric drive assembly
 
 The correspoding research has been published in follow journal article.
 1.[Advanced Angle Field Weakening Control Strategy of Permanent Magnet Synchronous Motor](https://ieeexplore.ieee.org/document/8651428) 
@@ -83,7 +84,7 @@ And you can cite as follows.
   doi={10.19562/j.chinasae.qcgc.2019.04.002}
 ```
 
-#Related patent
+# Related patent
 
 The corresponding patents include:
 1.[旋转式运输装置](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery)
