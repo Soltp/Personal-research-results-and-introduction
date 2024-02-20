@@ -83,7 +83,11 @@ And you can cite as follows.
   doi={10.19562/j.chinasae.qcgc.2019.04.002}
 
 Related patent
-The corresponding patents include:
+The corresponding patents include.
+1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.](https://ieeexplore.ieee.org/document/9078871) 
+2 [Generation, Screening, and Optimization of Powertrain Configurations for Power-Split Hybrid Electric Vehicle: A Comprehensive Overview](https://ieeexplore.ieee.org/document/9514573)
+3 [A novel algorithm for the isomorphism detection of various kinematic chains using topological index](https://www.sciencedirect.com/science/article/pii/S0094114X19323468)
+4 [并联混合动力传动系统结构创新设计研究/A Research on the Structural Innovative Design of Parallel Hybrid Powertrain System](http://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2018.09.001)
 1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery)
 2.[邓涛,唐鹏,等.混合动力汽车发动机废热余热再利用系统.发明专利，申请号：201610828295.0.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 3.[邓涛,唐鹏,等.汽车远程控锁系统.发明专利,申请号:201710625816.7.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
