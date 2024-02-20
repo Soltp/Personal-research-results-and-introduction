@@ -84,7 +84,7 @@ And you can cite as follows.
 
 Related patent
 The corresponding patents include:
-1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
+1.[邓涛,唐鹏.旋转式运输装置.发明专利,申请号:201610416401.4.（已授权）](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery)
 2.[邓涛,唐鹏,等.混合动力汽车发动机废热余热再利用系统.发明专利，申请号：201610828295.0.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 3.[邓涛,唐鹏,等.汽车远程控锁系统.发明专利,申请号:201710625816.7.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 4.[邓涛,唐鹏,等. 快递自存取式蜂巢无人车.发明专利,申请号: 201710514243.0.（已授权）].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
