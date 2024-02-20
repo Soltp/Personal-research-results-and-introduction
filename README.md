@@ -107,4 +107,4 @@ The corresponding patents include.
 16.[邓涛，甘志涵，唐鹏. 基于多轴输入型双转子电机的多工况模拟试验台架,中国发明专利, 实审, 申请号：CN201910750665.7].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 17.[邓涛，苏振华，姜路，唐鹏. 液控可变多自由度驱动球形感应电机, 中国发明专利, 实审,申请号：CN201810065885.1].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[邓涛，赵柯，唐鹏，等. 一种能实现多种PX功能的单电机混合动力变速系统. 中国发明专利, 实审,申请号：CN202010507515.6].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
-
+```
