@@ -108,3 +108,9 @@ The corresponding patents include.
 17.[邓涛，苏振华，姜路，唐鹏. 液控可变多自由度驱动球形感应电机, 中国发明专利, 实审,申请号：CN201810065885.1].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[邓涛，赵柯，唐鹏，等. 一种能实现多种PX功能的单电机混合动力变速系统. 中国发明专利, 实审,申请号：CN202010507515.6].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 ```
+@ARTICLE{
+  author={Tao Deng, Peng Tang, Zhenghua Su, Yuanping Luo},
+  journal={ IEEE Transactions on Power Electronics}, 
+  title={Systematic Design and Optimization Method of Multimode Hybrid Electric Vehicles Based on Equivalent Tree Graph}, 
+  year={2020},
+  doi={10.1109/TPEL.2020.2990209}
