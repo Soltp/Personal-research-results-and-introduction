@@ -45,6 +45,7 @@ The correspoding research has been published in follow journal article.
 6.[多自由度球形感应电机创新设计及其参数化仿真分析](http://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2019.04.002)
 And you can cite as follows.
 ```
+
 @ARTICLE{
   author={Tao Deng, Zhenhua Su, Junying Li, Peng Tang, Xing Chen, Ping Liu},
   journal={IEEE Transactions on Vehicular Technology}, 
