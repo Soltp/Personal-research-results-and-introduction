@@ -86,15 +86,19 @@ And you can cite as follows.
 
 # Transient temperature field prediction of electric drive assembly
 
-The correspoding research has been published in follow. [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/) and [Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque](https://saemobilus.sae.org/content/2024-01-2024/)
+This repository is published in order to support reproducability of experiments from the published journal article [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/) and [Temperature accurate prediction method of electric drive transmission considering spatio-temporal correlation characteristics under high speed and heavy load working conditions](https://saemobilus.sae.org/content/2024-01-2024/)
 If you are using this code please cite as follows.
 ```
-@ARTICLE{
-  author={Peng Tang, Zhiguo zhao, and Haodi Li},
+@ARTICLE{10232897,
+  author={Tang, Peng and Zhao, Zhiguo and Li, Haodi},
   journal={IEEE Transactions on Industrial Electronics}, 
   title={Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network}, 
-  year={2023},
-  doi={10.1109/TIE.2023.3303650}
+  year={2024},
+  volume={71},
+  number={7},
+  pages={7839-7852},
+  keywords={Stator windings;Estimation;Temperature distribution;Cooling;Neural networks;Mathematical models;Rotors;Graph construction;graph convolutional neural network (GCN);permanent magnet synchronous machine (PMSM);short-term prediction;thermal network topology (TNT);transient temperature field (TTF)},
+  doi={10.1109/TIE.2023.3303650}}
 @Conference{
   author={Peng Tang, Zhiguo zhao, and Haodi Li},
   Conference={SAE 2023 Vehicle Powertrain Diversification Technology Forum}, 
@@ -104,9 +108,10 @@ If you are using this code please cite as follows.
 @Conference{
   author={Peng Tang, Zhiguo zhao, and Haodi Li},
   Conference={WCX SAE World Congress Experience}, 
-  title={Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque}, 
+  title={Temperature accurate prediction method of electric drive transmission considering spatio-temporal correlation characteristics under high speed and heavy load working conditions}, 
   year={2024},
-  doi={xxx}
+  WCX SAE World Congress Experience
+  doi={doi:10.4271/2024-01-2024.}
 ```
 
 # Related patent
