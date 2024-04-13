@@ -135,6 +135,7 @@ The corresponding patents include:
 16.[基于多轴输入型双转子电机的多工况模拟试验台架](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 17.[液控可变多自由度驱动球形感应电机](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[一种能实现多种PX功能的单电机混合动力变速系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
+19.[基于甲醇在线重整制氢的燃料电池与内燃机混合发电系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 And you can cite as follows.
 ```
 @Patent{邓涛,唐鹏.旋转式运输装置.中国发明专利,申请号:201610416401.4.（已授权）}
@@ -155,3 +156,5 @@ And you can cite as follows.
 @Patent{邓涛，甘志涵，唐鹏. 基于多轴输入型双转子电机的多工况模拟试验台架,中国发明专利, 实审, 申请号：CN201910750665.7}
 @Patent{邓涛，苏振华，姜路，唐鹏. 液控可变多自由度驱动球形感应电机, 中国发明专利, 实审,申请号：CN201810065885.1}
 @Patent{邓涛，赵柯，唐鹏，等. 一种能实现多种PX功能的单电机混合动力变速系统. 中国发明专利, 实审,申请号：CN202010507515.6}
+@Patent{赵治国*,唐鹏,李豪迪,韩志玉.基于甲醇在线重整制氢的燃料电池与内燃机混合发电系统. 中国发明专利, 实审, 2024.01.22, CN202311615295.9.}
+
