@@ -86,7 +86,10 @@ And you can cite as follows.
 
 # Transient temperature field prediction of electric drive assembly
 
-This repository is published in order to support reproducability of experiments from the published journal article [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/) and [Temperature accurate prediction method of electric drive transmission considering spatio-temporal correlation characteristics under high speed and heavy load working conditions](https://saemobilus.sae.org/content/2024-01-2024/)
+This repository is published in order to support reproducability of experiments from the published journal article and Conference article 
+1[Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) 
+2[Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/)
+3[Temperature accurate prediction method of electric drive transmission considering spatio-temporal correlation characteristics under high speed and heavy load working conditions](https://saemobilus.sae.org/content/2024-01-2024/)
 If you are using this code please cite as follows.
 ```
 @ARTICLE{10232897,
