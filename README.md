@@ -146,7 +146,7 @@ The corresponding patents include:
 17.[液控可变多自由度驱动球形感应电机](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[一种能实现多种PX功能的单电机混合动力变速系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 19.[基于甲醇在线重整制氢的燃料电池与内燃机混合发电系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
-20.[多场耦合建模与数据驱动的电驱动总成关键性能预测方法].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery)
+20.[多场耦合建模与数据驱动的电驱动总成关键性能预测方法](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 And you can cite as follows.
 ```
 @Patent{邓涛,唐鹏.旋转式运输装置.中国发明专利,申请号:201610416401.4.（已授权）}
