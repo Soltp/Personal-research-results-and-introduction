@@ -86,10 +86,7 @@ And you can cite as follows.
 
 # Transient temperature field prediction of electric drive assembly
 
-This repository is published in order to support reproducability of experiments from the published journal article and Conference article 
-1[Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) 
-2[Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/)
-3[Temperature accurate prediction method of electric drive transmission considering spatio-temporal correlation characteristics under high speed and heavy load working conditions](https://saemobilus.sae.org/content/2024-01-2024/)
+This repository is published in order to support reproducability of experiments from the published journal article [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/) and [Temperature accurate prediction method of electric drive transmission considering spatio-temporal correlation characteristics under high speed and heavy load working conditions](https://saemobilus.sae.org/content/2024-01-2024/) and [Transient temperature field short-term prediction of electric drive gearbox based on thermal network static and dynamic graph construction](https://www.sciencedirect.com/science/article/pii/S1359431124009918?via%3Dihub).
 If you are using this code please cite as follows.
 ```
 @ARTICLE{10232897,
@@ -115,6 +112,16 @@ If you are using this code please cite as follows.
   year={2024},
   WCX SAE World Congress Experience
   doi={doi:10.4271/2024-01-2024.}
+@ARTICLE{,
+  author={Tang, Peng and Zhao, Zhiguo and Li, Haodi},
+  journal={Applied Thermal Engineering}, 
+  title={Transient temperature field short-term prediction of electric drive gearbox based on thermal network static and dynamic graph construction}, 
+  year={2024},
+  volume={248},
+  number={Part B},
+  pages={123323},
+  keywords={Stator windings;Estimation;Temperature distribution;Cooling;Neural networks;Mathematical models;Rotors;Graph construction;graph convolutional neural network (GCN);permanent magnet synchronous machine (PMSM);short-term prediction;thermal network topology (TNT);transient temperature field (TTF)},
+  doi={10.1016/j.applthermaleng.2024.123323}}
 ```
 
 # Related patent
@@ -139,6 +146,7 @@ The corresponding patents include:
 17.[液控可变多自由度驱动球形感应电机](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 18.[一种能实现多种PX功能的单电机混合动力变速系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
 19.[基于甲醇在线重整制氢的燃料电池与内燃机混合发电系统](http://epub.cnipa.gov.cn/Dxb/AdvancedQuery).
+20.[多场耦合建模与数据驱动的电驱动总成关键性能预测方法].(http://epub.cnipa.gov.cn/Dxb/AdvancedQuery)
 And you can cite as follows.
 ```
 @Patent{邓涛,唐鹏.旋转式运输装置.中国发明专利,申请号:201610416401.4.（已授权）}
@@ -159,5 +167,6 @@ And you can cite as follows.
 @Patent{邓涛，甘志涵，唐鹏. 基于多轴输入型双转子电机的多工况模拟试验台架,中国发明专利, 实审, 申请号：CN201910750665.7}
 @Patent{邓涛，苏振华，姜路，唐鹏. 液控可变多自由度驱动球形感应电机, 中国发明专利, 实审,申请号：CN201810065885.1}
 @Patent{邓涛，赵柯，唐鹏，等. 一种能实现多种PX功能的单电机混合动力变速系统. 中国发明专利, 实审,申请号：CN202010507515.6}
+@Patent{赵治国*,唐鹏,李豪迪. 多场耦合建模与数据驱动的电驱动总成关键性能预测方法[P]. 中国发明专利, 实审, 2024.03.03, CN202410238339.9.}
 @Patent{赵治国*,唐鹏,李豪迪,韩志玉.基于甲醇在线重整制氢的燃料电池与内燃机混合发电系统. 中国发明专利, 实审, 2024.01.22, CN202311615295.9.}
 
